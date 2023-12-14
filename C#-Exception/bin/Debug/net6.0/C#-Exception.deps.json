@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C#-Exception/1.0.0": {
+        "dependencies": {
+          "C#-Exception.Domain": "1.0.0"
+        },
+        "runtime": {
+          "C#-Exception.dll": {}
+        }
+      },
+      "C#-Exception.Domain/1.0.0": {
+        "runtime": {
+          "C#-Exception.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#-Exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C#-Exception.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

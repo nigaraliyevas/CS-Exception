@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Exception\C#-Exception.Domain\bin\Debug\net6.0\C#-Exception.Domain.deps.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Exception\C#-Exception.Domain\bin\Debug\net6.0\C#-Exception.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Exception\C#-Exception.Domain\bin\Debug\net6.0\C#-Exception.Domain.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Exception\C#-Exception.Domain\obj\Debug\net6.0\C#-Exception.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Exception\C#-Exception.Domain\obj\Debug\net6.0\C#-Exception.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Exception\C#-Exception.Domain\obj\Debug\net6.0\C#-Exception.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Exception\C#-Exception.Domain\obj\Debug\net6.0\C#-Exception.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Exception\C#-Exception.Domain\obj\Debug\net6.0\C#-Exception.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Exception\C#-Exception.Domain\obj\Debug\net6.0\refint\C#-Exception.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Exception\C#-Exception.Domain\obj\Debug\net6.0\C#-Exception.Domain.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Exception\C#-Exception.Domain\obj\Debug\net6.0\ref\C#-Exception.Domain.dll
